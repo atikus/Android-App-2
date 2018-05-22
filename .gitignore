@@ -1,3 +1,4 @@
+.DS_Store
 MyApplication2/*.iml
 MyApplication2/.gradle
 MyApplication2/local.properties
