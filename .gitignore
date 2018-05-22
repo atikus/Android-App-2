@@ -1,0 +1,8 @@
+MyApplication2/*.iml
+MyApplication2/.gradle
+MyApplication2/local.properties
+MyApplication2/.idea/libraries
+MyApplication2/.idea/modules.xml
+MyApplication2/.idea/workspace.xml
+MyApplication2/build
+MyApplication2/captures
