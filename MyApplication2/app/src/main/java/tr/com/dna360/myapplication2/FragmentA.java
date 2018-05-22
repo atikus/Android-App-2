@@ -41,7 +41,7 @@ public class FragmentA extends Fragment {
             Log.e("atilla", e.toString());
 
         }
-
+// deneme
         StringBuilder sb = new StringBuilder();
         try {
             InputStream fis = getContext().getAssets().open("hello.txt");
